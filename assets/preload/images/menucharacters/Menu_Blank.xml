@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Reyn.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Reynmenu0000" x="0" y="0" width="631" height="1077" frameX="0" frameY="-2" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0001" x="0" y="0" width="631" height="1077" frameX="0" frameY="-2" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0002" x="631" y="0" width="626" height="1077" frameX="-4" frameY="-2" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0003" x="631" y="0" width="626" height="1077" frameX="-4" frameY="-2" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0004" x="1257" y="0" width="614" height="1073" frameX="-20" frameY="-6" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0005" x="1871" y="0" width="611" height="1073" frameX="-23" frameY="-6" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0006" x="2482" y="0" width="613" height="1078" frameX="-23" frameY="-1" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0007" x="2482" y="0" width="613" height="1078" frameX="-23" frameY="-1" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0008" x="3095" y="0" width="615" height="1079" frameX="-23" frameY="0" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0009" x="0" y="1079" width="615" height="1079" frameX="-23" frameY="0" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0010" x="0" y="1079" width="615" height="1079" frameX="-23" frameY="0" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0011" x="0" y="1079" width="615" height="1079" frameX="-23" frameY="0" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0012" x="0" y="1079" width="615" height="1079" frameX="-23" frameY="0" frameWidth="638" frameHeight="1079"/>
+	<SubTexture name="Reynmenu0013" x="0" y="1079" width="615" height="1079" frameX="-23" frameY="0" frameWidth="638" frameHeight="1079"/>
+</TextureAtlas>

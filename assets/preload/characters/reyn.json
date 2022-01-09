@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ReynIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ReynLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ReynDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ReynUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ReynRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Reyn_Sprites",
+	"position": [
+		-80,
+		-190
+	],
+	"healthicon": "reyn",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		195,
+		255
+	],
+	"camera_position": [
+		-10,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

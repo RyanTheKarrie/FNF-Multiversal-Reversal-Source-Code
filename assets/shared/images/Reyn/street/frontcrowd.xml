@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frontcrowd.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FrontCrowd0000" x="0" y="0" width="3710" height="1778" frameX="0" frameY="-44" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0001" x="0" y="0" width="3710" height="1778" frameX="0" frameY="-44" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0002" x="3710" y="0" width="3697" height="1767" frameX="-3" frameY="-55" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0003" x="3710" y="0" width="3697" height="1767" frameX="-3" frameY="-55" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0004" x="0" y="1778" width="3687" height="1822" frameX="-13" frameY="-1" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0005" x="0" y="1778" width="3687" height="1822" frameX="-13" frameY="-1" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0006" x="3687" y="1778" width="3675" height="1823" frameX="-25" frameY="0" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0007" x="3687" y="1778" width="3675" height="1823" frameX="-25" frameY="0" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0008" x="3687" y="1778" width="3675" height="1823" frameX="-25" frameY="0" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0009" x="3687" y="1778" width="3675" height="1823" frameX="-25" frameY="0" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0010" x="3687" y="1778" width="3675" height="1823" frameX="-25" frameY="0" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0011" x="3687" y="1778" width="3675" height="1823" frameX="-25" frameY="0" frameWidth="3710" frameHeight="1823"/>
+	<SubTexture name="FrontCrowd0012" x="3687" y="1778" width="3675" height="1823" frameX="-25" frameY="0" frameWidth="3710" frameHeight="1823"/>
+</TextureAtlas>

@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ah, that takes me back. Back to when this was just a dream."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep Skeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I just miss the times when this was all just something I thought would never happen in my life."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": " I guess it's only fair that I talk about it here, as this isn’t MY universe."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Boop Bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I don’t know how I got here, I’m not sure where my universe’s counterpart is either."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": " I’m also curious to see if any of my friends are here either."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Reyn probably is. "
+		},
+		{
+			"speed": 0.08,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "... …that must mean Rev is here, too."
+		},
+		{
+			"speed": 0.28,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about one last song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Alright, let’s go!"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-30,
+		-110
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ReynIdle",
+			"idle_name": "ReynIdle stop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Reyn mad",
+			"idle_name": "Reyn mad stop"
+		},
+		{
+			"loop_name": "Reyn happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Reyn happy cstop",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ReynPortrait"
+}

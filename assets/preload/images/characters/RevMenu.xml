@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RevMenu.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rev cell0000" x="0" y="0" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0001" x="0" y="0" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0002" x="1585" y="0" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0003" x="1585" y="0" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0004" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0005" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0006" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0007" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0008" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0009" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0010" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0011" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0012" x="0" y="1400" width="1585" height="1400"/>
+	<SubTexture name="Rev cell0013" x="0" y="1400" width="1585" height="1400"/>
+</TextureAtlas>

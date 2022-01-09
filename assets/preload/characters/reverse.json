@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Reverse Up"
+		},
+		{
+			"offsets": [
+				20,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Reverse Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Reverse Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				28,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Reverse Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				54,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Reverse Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "slash",
+			"loop": false,
+			"name": "Reverse Slash"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Reverse_Sprites",
+	"position": [
+		-160,
+		-150
+	],
+	"healthicon": "reverse",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

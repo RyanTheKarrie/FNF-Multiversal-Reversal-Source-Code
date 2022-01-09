@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-210,
+		-730
+	],
+	"scale": 0.449999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-3
+			],
+			"idle_offsets": [
+				0,
+				-3
+			],
+			"loop_name": "RosdalinePortrait1",
+			"idle_name": "RosdalinePortrait1 stop"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				6,
+				-2
+			],
+			"loop_name": "RosdalinePortrait2",
+			"idle_name": "RosdalinePortrait2  stop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "RosdalinePortrait3",
+			"idle_name": "RosdalinePortrait3 stop"
+		}
+	],
+	"image": "Rosalineportrait"
+}

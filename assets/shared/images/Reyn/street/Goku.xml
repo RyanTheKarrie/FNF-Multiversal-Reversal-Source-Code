@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Goku.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Goku0000" x="0" y="0" width="537" height="773" frameX="0" frameY="-12" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0001" x="0" y="0" width="537" height="773" frameX="0" frameY="-12" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0002" x="537" y="0" width="530" height="776" frameX="-4" frameY="-10" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0003" x="537" y="0" width="530" height="776" frameX="-4" frameY="-10" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0004" x="1067" y="0" width="519" height="779" frameX="-10" frameY="-7" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0005" x="1067" y="0" width="519" height="779" frameX="-10" frameY="-7" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0006" x="0" y="779" width="506" height="786" frameX="-16" frameY="0" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0007" x="0" y="779" width="506" height="786" frameX="-16" frameY="0" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0008" x="0" y="779" width="506" height="786" frameX="-16" frameY="0" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0009" x="0" y="779" width="506" height="786" frameX="-16" frameY="0" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0010" x="0" y="779" width="506" height="786" frameX="-16" frameY="0" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0011" x="0" y="779" width="506" height="786" frameX="-16" frameY="0" frameWidth="537" frameHeight="786"/>
+	<SubTexture name="Goku0012" x="0" y="779" width="506" height="786" frameX="-16" frameY="0" frameWidth="537" frameHeight="786"/>
+</TextureAtlas>

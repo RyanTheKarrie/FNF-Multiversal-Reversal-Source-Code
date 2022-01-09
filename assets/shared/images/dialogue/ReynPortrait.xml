@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ReynPortrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Reyn happy0000" x="0" y="0" width="520" height="792" frameX="-8" frameY="0" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy0001" x="0" y="0" width="520" height="792" frameX="-8" frameY="0" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy0002" x="520" y="0" width="529" height="791" frameX="-4" frameY="-1" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy0003" x="520" y="0" width="529" height="791" frameX="-4" frameY="-1" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy0004" x="1049" y="0" width="538" height="787" frameX="0" frameY="-4" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy0005" x="1049" y="0" width="538" height="787" frameX="0" frameY="-4" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy cstop0000" x="1049" y="0" width="538" height="787" frameX="0" frameY="0" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy cstop0001" x="1049" y="0" width="538" height="787" frameX="0" frameY="0" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy cstop0002" x="1049" y="0" width="538" height="787" frameX="0" frameY="0" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy cstop0003" x="1049" y="0" width="538" height="787" frameX="0" frameY="0" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy cstop0004" x="1049" y="0" width="538" height="787" frameX="0" frameY="0" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn happy cstop0005" x="1049" y="0" width="538" height="787" frameX="0" frameY="0" frameWidth="538" frameHeight="792"/>
+	<SubTexture name="Reyn mad0000" x="1587" y="0" width="532" height="815" frameX="0" frameY="-1" frameWidth="532" frameHeight="817"/>
+	<SubTexture name="Reyn mad0001" x="1587" y="0" width="532" height="815" frameX="0" frameY="-1" frameWidth="532" frameHeight="817"/>
+	<SubTexture name="Reyn mad0002" x="2119" y="0" width="525" height="817" frameX="-4" frameY="0" frameWidth="532" frameHeight="817"/>
+	<SubTexture name="Reyn mad0003" x="2119" y="0" width="525" height="817" frameX="-4" frameY="0" frameWidth="532" frameHeight="817"/>
+	<SubTexture name="Reyn mad0004" x="2644" y="0" width="525" height="817" frameX="-4" frameY="0" frameWidth="532" frameHeight="817"/>
+	<SubTexture name="Reyn mad0005" x="2644" y="0" width="525" height="817" frameX="-4" frameY="0" frameWidth="532" frameHeight="817"/>
+	<SubTexture name="Reyn mad stop0000" x="3169" y="0" width="525" height="817"/>
+	<SubTexture name="Reyn mad stop0001" x="3169" y="0" width="525" height="817"/>
+	<SubTexture name="Reyn mad stop0002" x="3169" y="0" width="525" height="817"/>
+	<SubTexture name="Reyn mad stop0003" x="3169" y="0" width="525" height="817"/>
+	<SubTexture name="Reyn mad stop0004" x="3169" y="0" width="525" height="817"/>
+	<SubTexture name="Reyn mad stop0005" x="3169" y="0" width="525" height="817"/>
+	<SubTexture name="ReynIdle0000" x="0" y="817" width="520" height="795" frameX="0" frameY="-3" frameWidth="530" frameHeight="798"/>
+	<SubTexture name="ReynIdle0001" x="0" y="817" width="520" height="795" frameX="0" frameY="-3" frameWidth="530" frameHeight="798"/>
+	<SubTexture name="ReynIdle0002" x="520" y="817" width="525" height="797" frameX="0" frameY="-1" frameWidth="530" frameHeight="798"/>
+	<SubTexture name="ReynIdle0003" x="520" y="817" width="525" height="797" frameX="0" frameY="-1" frameWidth="530" frameHeight="798"/>
+	<SubTexture name="ReynIdle0004" x="1045" y="817" width="530" height="798"/>
+	<SubTexture name="ReynIdle0005" x="1045" y="817" width="530" height="798"/>
+	<SubTexture name="ReynIdle stop0000" x="1045" y="817" width="530" height="798"/>
+	<SubTexture name="ReynIdle stop0001" x="1045" y="817" width="530" height="798"/>
+	<SubTexture name="ReynIdle stop0002" x="1045" y="817" width="530" height="798"/>
+	<SubTexture name="ReynIdle stop0003" x="1045" y="817" width="530" height="798"/>
+	<SubTexture name="ReynIdle stop0004" x="1045" y="817" width="530" height="798"/>
+	<SubTexture name="ReynIdle stop0005" x="1045" y="817" width="530" height="798"/>
+</TextureAtlas>

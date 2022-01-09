@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backcrowd.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backcrowdcheer0000" x="0" y="0" width="1637" height="249" frameX="0" frameY="-9" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0001" x="0" y="0" width="1637" height="249" frameX="0" frameY="-9" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0002" x="0" y="249" width="1637" height="249" frameX="0" frameY="-10" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0003" x="0" y="249" width="1637" height="249" frameX="0" frameY="-10" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0004" x="0" y="249" width="1637" height="249" frameX="0" frameY="-3" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0005" x="0" y="249" width="1637" height="249" frameX="0" frameY="-3" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0006" x="0" y="249" width="1637" height="249" frameX="0" frameY="0" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0007" x="0" y="249" width="1637" height="249" frameX="0" frameY="0" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0008" x="0" y="249" width="1637" height="249" frameX="0" frameY="0" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0009" x="0" y="249" width="1637" height="249" frameX="0" frameY="0" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0010" x="0" y="249" width="1637" height="249" frameX="0" frameY="0" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0011" x="0" y="249" width="1637" height="249" frameX="0" frameY="0" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0012" x="0" y="249" width="1637" height="249" frameX="0" frameY="0" frameWidth="1637" frameHeight="259"/>
+	<SubTexture name="backcrowdcheer0013" x="0" y="249" width="1637" height="249" frameX="0" frameY="0" frameWidth="1637" frameHeight="259"/>
+</TextureAtlas>

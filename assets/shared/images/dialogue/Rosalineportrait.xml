@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rosalineportrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RosdalinePortrait10000" x="0" y="0" width="1379" height="1979" frameX="-9" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait10001" x="0" y="0" width="1379" height="1979" frameX="-9" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait10002" x="1379" y="0" width="1392" height="1970" frameX="-3" frameY="-9" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait10003" x="1379" y="0" width="1392" height="1970" frameX="-3" frameY="-9" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait10004" x="2771" y="0" width="1398" height="1960" frameX="0" frameY="-14" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait10005" x="2771" y="0" width="1398" height="1960" frameX="0" frameY="-14" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait1 stop0000" x="2771" y="0" width="1398" height="1960" frameX="0" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait1 stop0001" x="2771" y="0" width="1398" height="1960" frameX="0" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait2 0000" x="4169" y="0" width="1379" height="1979" frameX="-9" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait2 0001" x="4169" y="0" width="1379" height="1979" frameX="-9" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait2 0002" x="5548" y="0" width="1392" height="1970" frameX="-3" frameY="-9" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait2 0003" x="5548" y="0" width="1392" height="1970" frameX="-3" frameY="-9" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait2 0004" x="0" y="1979" width="1398" height="1960" frameX="0" frameY="-14" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait2 0005" x="0" y="1979" width="1398" height="1960" frameX="0" frameY="-14" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait2  stop0000" x="0" y="1979" width="1398" height="1960" frameX="0" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait2  stop0001" x="0" y="1979" width="1398" height="1960" frameX="0" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait30000" x="1398" y="1979" width="1379" height="1979" frameX="-9" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait30001" x="1398" y="1979" width="1379" height="1979" frameX="-9" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait30002" x="2777" y="1979" width="1392" height="1970" frameX="-3" frameY="-9" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait30003" x="2777" y="1979" width="1392" height="1970" frameX="-3" frameY="-9" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait30004" x="4169" y="1979" width="1398" height="1960" frameX="0" frameY="-14" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait30005" x="4169" y="1979" width="1398" height="1960" frameX="0" frameY="-14" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait3 stop0000" x="4169" y="1979" width="1398" height="1960" frameX="0" frameY="0" frameWidth="1398" frameHeight="1979"/>
+	<SubTexture name="RosdalinePortrait3 stop0001" x="4169" y="1979" width="1398" height="1960" frameX="0" frameY="0" frameWidth="1398" frameHeight="1979"/>
+</TextureAtlas>

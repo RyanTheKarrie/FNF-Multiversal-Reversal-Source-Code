@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RosalineMenu.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RosalineMenu0000" x="0" y="0" width="942" height="666" frameX="-21" frameY="-14" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0001" x="0" y="0" width="942" height="666" frameX="-21" frameY="-14" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0002" x="942" y="0" width="942" height="665" frameX="-21" frameY="-15" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0003" x="1884" y="0" width="942" height="665" frameX="-21" frameY="-15" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0004" x="2826" y="0" width="942" height="667" frameX="-21" frameY="-13" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0005" x="0" y="667" width="942" height="667" frameX="-21" frameY="-13" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0006" x="942" y="667" width="865" height="669" frameX="-98" frameY="-11" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0007" x="1807" y="667" width="942" height="679" frameX="-21" frameY="-1" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0008" x="1807" y="667" width="942" height="679" frameX="-21" frameY="-1" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0009" x="2749" y="667" width="942" height="679" frameX="-21" frameY="-1" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0010" x="0" y="1346" width="942" height="680" frameX="-21" frameY="0" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0011" x="942" y="1346" width="942" height="680" frameX="-21" frameY="0" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0012" x="942" y="1346" width="942" height="680" frameX="-21" frameY="0" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0013" x="1884" y="1346" width="865" height="679" frameX="-98" frameY="-1" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0014" x="1884" y="1346" width="865" height="679" frameX="-98" frameY="-1" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0015" x="2749" y="1346" width="865" height="668" frameX="-98" frameY="-12" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0016" x="0" y="2026" width="963" height="668" frameX="0" frameY="-12" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0017" x="963" y="2026" width="965" height="668" frameX="0" frameY="-12" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0018" x="1928" y="2026" width="965" height="668" frameX="0" frameY="-12" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0019" x="2893" y="2026" width="942" height="669" frameX="-21" frameY="-11" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0020" x="0" y="2695" width="942" height="669" frameX="-21" frameY="-11" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0021" x="942" y="2695" width="942" height="670" frameX="-21" frameY="-10" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0022" x="1884" y="2695" width="865" height="675" frameX="-98" frameY="-5" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0023" x="1884" y="2695" width="865" height="675" frameX="-98" frameY="-5" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0024" x="1884" y="2695" width="865" height="675" frameX="-98" frameY="-5" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0025" x="2749" y="2695" width="963" height="674" frameX="0" frameY="-6" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0026" x="2749" y="2695" width="963" height="674" frameX="0" frameY="-6" frameWidth="965" frameHeight="680"/>
+	<SubTexture name="RosalineMenu0027" x="2749" y="2695" width="963" height="674" frameX="0" frameY="-6" frameWidth="965" frameHeight="680"/>
+</TextureAtlas>

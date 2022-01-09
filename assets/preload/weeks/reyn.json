@@ -1,0 +1,48 @@
+{
+	"storyName": "Multiversal REversal",
+	"hideFreeplay": false,
+	"weekBackground": "city",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Reyn",
+			"reyn",
+			[
+				60,
+				195,
+				255
+			]
+		],
+		[
+			"Rain",
+			"reyn",
+			[
+				60,
+				135,
+				255
+			]
+		],
+		[
+			"Reign",
+			"reverse",
+			[
+				200,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"reyn",
+		"bf",
+		"gf"
+	],
+	"weekName": "Reyn Week"
+}

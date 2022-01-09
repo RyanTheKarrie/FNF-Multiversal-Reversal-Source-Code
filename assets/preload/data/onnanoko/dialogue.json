@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "(to herself) ...just stay cool. Just act like this is YOUR universe. You're a star there anyway, right?",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "rosaline"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Oh, hey! I was wondering when you’d show up.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rosaline"
+		},
+		{
+			"expression": "talk",
+			"text": "Let’s start off with a cover of one of my favorite songs!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rosaline"
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ReynIdle"
+		},
+		{
+			"offsets": [
+				21,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ReynLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ReynDown"
+		},
+		{
+			"offsets": [
+				-6,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ReynUp"
+		},
+		{
+			"offsets": [
+				0,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ReynRight"
+		},
+		{
+			"offsets": [
+				740,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "stab",
+			"loop": false,
+			"name": "ReynSATbbed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ReynMAD",
+	"position": [
+		-80,
+		-190
+	],
+	"healthicon": "reyn",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		195,
+		255
+	],
+	"camera_position": [
+		-10,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

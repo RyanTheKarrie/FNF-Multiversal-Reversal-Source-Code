@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="themello.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marshello0000" x="0" y="0" width="633" height="819" frameX="-49" frameY="-40" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0001" x="0" y="0" width="633" height="819" frameX="-49" frameY="-40" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0002" x="633" y="0" width="630" height="817" frameX="-49" frameY="-45" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0003" x="633" y="0" width="630" height="817" frameX="-49" frameY="-45" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0004" x="1263" y="0" width="663" height="832" frameX="-7" frameY="-5" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0005" x="1263" y="0" width="663" height="832" frameX="-7" frameY="-5" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0006" x="0" y="832" width="668" height="834" frameX="0" frameY="0" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0007" x="0" y="832" width="668" height="834" frameX="0" frameY="0" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0008" x="0" y="832" width="668" height="834" frameX="0" frameY="0" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0009" x="0" y="832" width="668" height="834" frameX="0" frameY="0" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0010" x="0" y="832" width="668" height="834" frameX="0" frameY="0" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0011" x="0" y="832" width="668" height="834" frameX="0" frameY="0" frameWidth="682" frameHeight="862"/>
+	<SubTexture name="marshello0012" x="0" y="832" width="668" height="834" frameX="0" frameY="0" frameWidth="682" frameHeight="862"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backcrowd.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bbackcrowd0000" x="0" y="0" width="1020" height="842" frameX="0" frameY="-5" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0001" x="0" y="0" width="1020" height="842" frameX="0" frameY="-5" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0002" x="1020" y="0" width="1013" height="843" frameX="-4" frameY="-4" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0003" x="1020" y="0" width="1013" height="843" frameX="-4" frameY="-4" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0004" x="0" y="843" width="1004" height="845" frameX="-8" frameY="-2" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0005" x="0" y="843" width="1004" height="845" frameX="-8" frameY="-2" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0006" x="1004" y="843" width="999" height="848" frameX="-11" frameY="0" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0007" x="1004" y="843" width="999" height="848" frameX="-11" frameY="0" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0008" x="1004" y="843" width="999" height="848" frameX="-11" frameY="0" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0009" x="1004" y="843" width="999" height="848" frameX="-11" frameY="0" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0010" x="1004" y="843" width="999" height="848" frameX="-11" frameY="0" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0011" x="1004" y="843" width="999" height="848" frameX="-11" frameY="0" frameWidth="1020" frameHeight="848"/>
+	<SubTexture name="bbackcrowd0012" x="1004" y="843" width="999" height="848" frameX="-11" frameY="0" frameWidth="1020" frameHeight="848"/>
+</TextureAtlas>

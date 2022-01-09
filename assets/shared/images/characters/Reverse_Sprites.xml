@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Reverse_Sprites.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Reverse Down0000" x="0" y="0" width="778" height="903"/>
+	<SubTexture name="Reverse Down0001" x="0" y="0" width="778" height="903"/>
+	<SubTexture name="Reverse Down0002" x="778" y="0" width="774" height="901" frameX="0" frameY="-2" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0003" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0004" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0005" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0006" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0007" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0008" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0009" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0010" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0011" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0012" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Down0013" x="1552" y="0" width="772" height="900" frameX="0" frameY="-3" frameWidth="778" frameHeight="903"/>
+	<SubTexture name="Reverse Idle0000" x="2324" y="0" width="703" height="1002" frameX="0" frameY="-36" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0001" x="3027" y="0" width="703" height="1002" frameX="0" frameY="-36" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0002" x="3730" y="0" width="720" height="1002" frameX="0" frameY="-36" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0003" x="4450" y="0" width="688" height="1002" frameX="0" frameY="-36" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0004" x="5138" y="0" width="654" height="1019" frameX="-17" frameY="-20" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0005" x="5138" y="0" width="654" height="1019" frameX="-17" frameY="-20" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0006" x="5792" y="0" width="656" height="1035" frameX="-16" frameY="-3" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0007" x="6448" y="0" width="656" height="1035" frameX="-16" frameY="-3" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0008" x="7104" y="0" width="656" height="1038" frameX="-16" frameY="0" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0009" x="7104" y="0" width="656" height="1038" frameX="-16" frameY="0" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0010" x="7104" y="0" width="656" height="1038" frameX="-16" frameY="0" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0011" x="7104" y="0" width="656" height="1038" frameX="-16" frameY="0" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0012" x="7104" y="0" width="656" height="1038" frameX="-16" frameY="0" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Idle0013" x="7104" y="0" width="656" height="1038" frameX="-16" frameY="0" frameWidth="720" frameHeight="1039"/>
+	<SubTexture name="Reverse Left0000" x="0" y="1038" width="805" height="1036"/>
+	<SubTexture name="Reverse Left0001" x="0" y="1038" width="805" height="1036"/>
+	<SubTexture name="Reverse Left0002" x="805" y="1038" width="794" height="1036" frameX="-4" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0003" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0004" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0005" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0006" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0007" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0008" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0009" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0010" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0011" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0012" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Left0013" x="1599" y="1038" width="790" height="1036" frameX="-5" frameY="0" frameWidth="805" frameHeight="1036"/>
+	<SubTexture name="Reverse Right0000" x="2389" y="1038" width="900" height="997" frameX="-39" frameY="-61" frameWidth="944" frameHeight="1058"/>
+	<SubTexture name="Reverse Right0001" x="2389" y="1038" width="900" height="997" frameX="-39" frameY="-61" frameWidth="944" frameHeight="1058"/>
+	<SubTexture name="Reverse Right0002" x="3289" y="1038" width="901" height="999" frameX="-42" frameY="-59" frameWidth="944" frameHeight="1058"/>
+	<SubTexture name="Reverse Right0003" x="4190" y="1038" width="901" height="1000" frameX="-43" frameY="-58" frameWidth="944" frameHeight="1058"/>
+	<SubTexture name="Reverse Right0004" x="5091" y="1038" width="901" height="1000" frameX="-43" frameY="-58" frameWidth="944" frameHeight="1058"/>
+	<SubTexture name="Reverse Right0005" x="5992" y="1038" width="901" height="1004" frameX="-43" frameY="-54" frameWidth="944" frameHeight="1058"/>
+	<SubTexture name="Reverse Right0006" x="5992" y="1038" width="901" height="1004" frameX="-43" frameY="-54" frameWidth="944" frameHeight="1058"/>
+	<SubTexture name="Reverse Right0007" x="6893" y="1038" width="944" height="1058"/>
+	<SubTexture name="Reverse Right0008" x="6893" y="1038" width="944" height="1058"/>
+	<SubTexture name="Reverse Right0009" x="6893" y="1038" width="944" height="1058"/>
+	<SubTexture name="Reverse Right0010" x="6893" y="1038" width="944" height="1058"/>
+	<SubTexture name="Reverse Right0011" x="6893" y="1038" width="944" height="1058"/>
+	<SubTexture name="Reverse Right0012" x="6893" y="1038" width="944" height="1058"/>
+	<SubTexture name="Reverse Right0013" x="6893" y="1038" width="944" height="1058"/>
+	<SubTexture name="Reverse Slash0000" x="0" y="2096" width="656" height="1029" frameX="-23" frameY="-33" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0001" x="656" y="2096" width="656" height="1029" frameX="-23" frameY="-33" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0002" x="1312" y="2096" width="759" height="890" frameX="-24" frameY="-168" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0003" x="2071" y="2096" width="657" height="1001" frameX="-23" frameY="-58" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0004" x="2728" y="2096" width="1342" height="1037" frameX="0" frameY="-25" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0005" x="2728" y="2096" width="1342" height="1037" frameX="0" frameY="-25" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0006" x="4070" y="2096" width="1277" height="1063" frameX="-23" frameY="0" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0007" x="4070" y="2096" width="1277" height="1063" frameX="-23" frameY="0" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0008" x="5347" y="2096" width="686" height="1029" frameX="-8" frameY="-33" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0009" x="6033" y="2096" width="669" height="1029" frameX="-10" frameY="-33" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0010" x="6033" y="2096" width="669" height="1029" frameX="-10" frameY="-33" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0011" x="6033" y="2096" width="669" height="1029" frameX="-10" frameY="-33" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Slash0012" x="6033" y="2096" width="669" height="1029" frameX="-10" frameY="-33" frameWidth="1342" frameHeight="1063"/>
+	<SubTexture name="Reverse Up0000" x="6702" y="2096" width="775" height="994" frameX="-20" frameY="-81" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0001" x="0" y="3159" width="782" height="1026" frameX="-12" frameY="-50" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0002" x="782" y="3159" width="787" height="1057" frameX="-6" frameY="-20" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0003" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0004" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0005" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0006" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0007" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0008" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0009" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0010" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0011" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0012" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+	<SubTexture name="Reverse Up0013" x="1569" y="3159" width="792" height="1078" frameX="0" frameY="0" frameWidth="795" frameHeight="1078"/>
+</TextureAtlas>

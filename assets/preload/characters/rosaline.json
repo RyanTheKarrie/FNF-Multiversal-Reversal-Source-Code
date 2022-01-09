@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "Rosaline Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Reyena Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Reyena Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Reyena Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 22,
+			"name": "Reyena Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rosaline",
+	"position": [
+		-160,
+		-180
+	],
+	"healthicon": "rosaline",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		125,
+		255
+	],
+	"camera_position": [
+		10,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

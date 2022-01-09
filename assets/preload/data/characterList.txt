@@ -1,0 +1,12 @@
+bf
+bfslice
+dad
+gf
+bf-car
+gf-car
+reyn
+reynmad
+reynmenu
+reverse
+reversemad
+rosaline

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Reverse Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Reverse Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Reverse Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				17
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Reverse alt right"
+		},
+		{
+			"offsets": [
+				54,
+				12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Reverse Left"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sword",
+			"loop": false,
+			"name": "Reverse Slash"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/REVERSEMAD",
+	"position": [
+		-160,
+		-150
+	],
+	"healthicon": "reverse",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

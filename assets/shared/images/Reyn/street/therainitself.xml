@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="therainitself.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="therainitsself0000" x="0" y="0" width="1710" height="957" frameX="-236" frameY="-41" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0001" x="1710" y="0" width="1710" height="1014" frameX="-237" frameY="-125" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0002" x="3420" y="0" width="1747" height="981" frameX="-200" frameY="-209" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0003" x="5167" y="0" width="1838" height="909" frameX="-110" frameY="-293" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0004" x="0" y="1014" width="1889" height="838" frameX="-60" frameY="-377" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0005" x="1889" y="1014" width="1949" height="1188" frameX="0" frameY="-11" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0006" x="3838" y="1014" width="1758" height="1140" frameX="-192" frameY="-21" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0007" x="5596" y="1014" width="1810" height="1174" frameX="-141" frameY="0" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0008" x="0" y="2202" width="1870" height="1153" frameX="-82" frameY="-17" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0009" x="1870" y="2202" width="1724" height="1116" frameX="-228" frameY="-41" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0010" x="3594" y="2202" width="1724" height="1125" frameX="-229" frameY="-38" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0011" x="5318" y="2202" width="1728" height="1147" frameX="-230" frameY="-24" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0012" x="0" y="3355" width="1777" height="1153" frameX="-232" frameY="-31" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0013" x="1777" y="3355" width="1865" height="1138" frameX="-233" frameY="-31" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0014" x="3642" y="3355" width="1915" height="1153" frameX="-234" frameY="-21" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0015" x="5557" y="3355" width="1974" height="1054" frameX="-235" frameY="-105" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0016" x="0" y="0" width="1710" height="957" frameX="-236" frameY="-41" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0017" x="1710" y="0" width="1710" height="1014" frameX="-237" frameY="-125" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0018" x="3420" y="0" width="1747" height="981" frameX="-200" frameY="-209" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0019" x="5167" y="0" width="1838" height="909" frameX="-110" frameY="-293" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0020" x="0" y="1014" width="1889" height="838" frameX="-60" frameY="-377" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0021" x="1889" y="1014" width="1949" height="1188" frameX="0" frameY="-11" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0022" x="3838" y="1014" width="1758" height="1140" frameX="-192" frameY="-21" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0023" x="5596" y="1014" width="1810" height="1174" frameX="-141" frameY="0" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0024" x="0" y="2202" width="1870" height="1153" frameX="-82" frameY="-17" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0025" x="1870" y="2202" width="1724" height="1116" frameX="-228" frameY="-41" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0026" x="3594" y="2202" width="1724" height="1125" frameX="-229" frameY="-38" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0027" x="5318" y="2202" width="1728" height="1147" frameX="-230" frameY="-24" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0028" x="0" y="3355" width="1777" height="1153" frameX="-232" frameY="-31" frameWidth="2209" frameHeight="1215"/>
+	<SubTexture name="therainitsself0029" x="1777" y="3355" width="1865" height="1138" frameX="-233" frameY="-31" frameWidth="2209" frameHeight="1215"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Reynmenu",
+	"image": "Menu_Reyn",
+	"position": [
+		230,
+		363
+	],
+	"scale": 0.35,
+	"confirm_anim": "M Dad Idle"
+}

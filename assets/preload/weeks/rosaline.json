@@ -1,0 +1,48 @@
+{
+	"storyName": "Rosaline's Big Night",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "reyn",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"blank",
+		"blank",
+		"blank"
+	],
+	"songs": [
+		[
+			"Onnanoko",
+			"rosaline",
+			[
+				255,
+				73,
+				255
+			]
+		],
+		[
+			"Idolized",
+			"rosaline",
+			[
+				255,
+				73,
+				255
+			]
+		],
+		[
+			"Tragic Cynosure",
+			"rosaline",
+			[
+				255,
+				73,
+				255
+			]
+		]
+	],
+	"weekName": "Rosaline"
+}

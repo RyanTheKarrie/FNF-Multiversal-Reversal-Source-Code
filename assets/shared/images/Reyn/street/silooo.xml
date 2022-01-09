@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="silooo.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="THESHILOUTTE0000" x="0" y="0" width="2503" height="1364" frameX="0" frameY="-38" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0001" x="0" y="0" width="2503" height="1364" frameX="0" frameY="-38" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0002" x="2503" y="0" width="2464" height="1380" frameX="-19" frameY="-22" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0003" x="2503" y="0" width="2464" height="1380" frameX="-19" frameY="-22" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0004" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0005" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0006" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0007" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0008" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0009" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0010" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0011" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+	<SubTexture name="THESHILOUTTE0012" x="4967" y="0" width="2442" height="1402" frameX="-30" frameY="0" frameWidth="2503" frameHeight="1402"/>
+</TextureAtlas>

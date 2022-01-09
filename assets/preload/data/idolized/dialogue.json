@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W-Wow!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "That went a lot better than I expected!\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We should do one of my songs!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "BEEP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I wrote this song in middle school."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It holds a special place in my heart, and I’d love to sing it with you!\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": " …as I’ve lost touch with the friend I wrote the song with.\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BAP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rosaline",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Awesome! Let’s do this!"
+		}
+	]
+}
