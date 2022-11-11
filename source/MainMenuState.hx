@@ -35,9 +35,7 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = [
 		'story_mode',
 		'freeplay',
-		#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
-		#if !switch 'donate', #end
 		'options'
 	];
 
@@ -48,6 +46,7 @@ class MainMenuState extends MusicBeatState
 	private var char1:Character = null;
 	private var charrosa:Character = null;
 	private var charrev:Character = null;
+	private var charfreyn:Character = null;
 
 	override function create()
 	{
@@ -114,20 +113,25 @@ class MainMenuState extends MusicBeatState
 		bgside.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bgside);
 
-		char1 = new Character (500, -200, 'reynmenu', true);
+		char1 = new Character (500, -50, 'reynmenu', true);
 		char1.setGraphicSize(Std.int(char1.width * 0.8));
 		add(char1);
 		char1.visible = false;
 
-		charrosa = new Character (450, 550, 'rosamenu', true);
+		charrosa = new Character (450, 400, 'rosamenu', true);
 		charrosa.setGraphicSize(Std.int(charrosa.width *0.8));
 		add(charrosa);
 		charrosa.visible = false;
 
-		charrev = new Character (450, -150, 'revmenu', true);
+		charrev = new Character (450, 0, 'revmenu', true);
 		charrev.setGraphicSize(Std.int(charrev.width *0.8));
 		add(charrev);
 		charrev.visible = false;
+
+		charfreyn = new Character (600, 200, 'freyncredits', true);
+		charfreyn.setGraphicSize(Std.int(charfreyn.width * 0.8));
+		add(charfreyn);
+		charfreyn.visible = false;
 
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
@@ -251,6 +255,20 @@ class MainMenuState extends MusicBeatState
 				{
 					charrev.visible = false;
 				}
+
+			if (optionShit[curSelected] == 'credits')
+				{
+					changeItem(-1);
+					changeItem(1);
+	
+					charfreyn.dance();
+					charfreyn.updateHitbox();
+					charfreyn.visible = true;
+				}
+				else
+					{
+						charfreyn.visible = false;
+					}
 
 		if (!selectedSomethin)
 		{

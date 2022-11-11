@@ -85,6 +85,7 @@ class CreditsState extends MusicBeatState
 			[''],
 			['Emotional Support'],
 			['Zero',		'zeroe',		'Friend, fellow artist, member of Chit-Chatting',					'https://www.instagram.com/thevesh321/',	'009410'],
+			['Larorien',		'laro',		'Friend, fellow artist, member of Chit-Chatting',					'',	'FF7400'],
 			['Tofumi',			'matrix',		'Friend, member of Chit-Chatting',				'https://www.instagram.com/takumi_hachiroku/',		'3746FF'],
 			['Justin Figglebottom',		'figgle',		'Friend, Leader of Chit-Chatting',						'https://www.instagram.com/oapoyink/',	'7B3F00'],
 			['Sruyxi',		'keper',		'Friend, fellow artist and muscician, member of Chit-Chatting',						'',	'FFE3BD'],
